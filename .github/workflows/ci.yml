@@ -25,6 +25,7 @@ jobs:
         node-version: '16'
     - name: Build
       run: |
+        uname -a
         npm run build
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
