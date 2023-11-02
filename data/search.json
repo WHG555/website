@@ -1,12 +1,5 @@
 [
   {
-    "name": "搜狗",
-    "url": "",
-    "icon": "",
-    "placeholder": "搜狗搜索",
-    "blocked": false
-  },
-  {
     "name": "站内",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
     "placeholder": "站内搜索",
@@ -29,6 +22,13 @@
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "blocked": false
+  },
+  {
+    "name": "搜狗",
+    "url": "https://www.sogou.com/web?query=",
+    "icon": "",
+    "placeholder": "搜狗搜索",
     "blocked": false
   },
   {
