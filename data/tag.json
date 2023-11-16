@@ -1,4 +1,10 @@
 {
+  "论坛": {
+    "createdAt": "2023-11-16T02:04:41.161Z",
+    "color": "#f50000",
+    "desc": "",
+    "isInner": false
+  },
   "网页版": {
     "createdAt": "2023-11-15T02:51:35.553Z",
     "color": "#a91fdb",
