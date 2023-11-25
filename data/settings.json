@@ -1,5 +1,5 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "assets/logo.png",
   "language": "zh-CN",
   "loading": "random",
   "showGithub": false,
