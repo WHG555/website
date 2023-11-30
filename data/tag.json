@@ -1,53 +1,17 @@
 {
-  "历史网址9": {
-    "createdAt": "2023-11-28T07:05:32.969Z",
+  "地址发布": {
+    "createdAt": "2023-11-30T03:29:42.990Z",
+    "color": "#122be2",
+    "desc": "",
+    "isInner": false
+  },
+  "邮箱找回": {
+    "createdAt": "2023-11-30T03:29:33.680Z",
     "color": "#f50000",
     "desc": "",
     "isInner": false
   },
-  "历史网址8": {
-    "createdAt": "2023-11-28T07:05:27.066Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址7": {
-    "createdAt": "2023-11-28T07:05:17.807Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址6": {
-    "createdAt": "2023-11-28T07:05:07.327Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址5": {
-    "createdAt": "2023-11-28T07:05:00.221Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址4": {
-    "createdAt": "2023-11-28T07:04:54.157Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址3": {
-    "createdAt": "2023-11-28T07:04:46.187Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址2": {
-    "createdAt": "2023-11-28T07:04:39.893Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址1": {
+  "历史网址": {
     "createdAt": "2023-11-28T07:04:18.176Z",
     "color": "#c0f500",
     "desc": "",
@@ -55,7 +19,7 @@
   },
   "软件库": {
     "createdAt": "2023-11-16T05:37:52.034Z",
-    "color": "#f50000",
+    "color": "#3e6ee0",
     "desc": "",
     "isInner": false
   },
