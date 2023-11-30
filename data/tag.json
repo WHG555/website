@@ -5,61 +5,13 @@
     "desc": "",
     "isInner": false
   },
-  "地址发布页": {
+  "地址发布": {
     "createdAt": "2023-11-30T01:34:02.030Z",
-    "color": "#f50000",
+    "color": "#251881",
     "desc": "",
     "isInner": false
   },
-  "历史网址9": {
-    "createdAt": "2023-11-28T07:05:32.969Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址8": {
-    "createdAt": "2023-11-28T07:05:27.066Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址7": {
-    "createdAt": "2023-11-28T07:05:17.807Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址6": {
-    "createdAt": "2023-11-28T07:05:07.327Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址5": {
-    "createdAt": "2023-11-28T07:05:00.221Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址4": {
-    "createdAt": "2023-11-28T07:04:54.157Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址3": {
-    "createdAt": "2023-11-28T07:04:46.187Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址2": {
-    "createdAt": "2023-11-28T07:04:39.893Z",
-    "color": "#f50000",
-    "desc": "",
-    "isInner": false
-  },
-  "历史网址1": {
+  "历史网址": {
     "createdAt": "2023-11-28T07:04:18.176Z",
     "color": "#c0f500",
     "desc": "",
@@ -73,7 +25,7 @@
   },
   "论坛": {
     "createdAt": "2023-11-16T02:04:41.161Z",
-    "color": "#f50000",
+    "color": "#f5a700",
     "desc": "",
     "isInner": false
   },
