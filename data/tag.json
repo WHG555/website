@@ -1,4 +1,10 @@
 {
+  "注册": {
+    "createdAt": "2023-12-23T14:19:59.309Z",
+    "color": "#e45dee",
+    "desc": "",
+    "isInner": false
+  },
   "TG": {
     "createdAt": "2023-12-10T14:22:25.763Z",
     "color": "#3c47dd",
