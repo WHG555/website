@@ -1,4 +1,10 @@
 {
+  "配置": {
+    "createdAt": "2024-01-07T13:50:52.203Z",
+    "color": "#55b332",
+    "desc": "",
+    "isInner": false
+  },
   "注册": {
     "createdAt": "2023-12-23T14:19:59.309Z",
     "color": "#e45dee",
